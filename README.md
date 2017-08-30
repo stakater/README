@@ -5,11 +5,11 @@ All opensource projects which are owned by Stakater must have similiar README; a
 
 So, we need to define a format and then ensure its followed:
 
-https://github.com/cloudposse/bastion
-https://github.com/AngularClass/angular-starter
-https://github.com/jtblin/kube2iam
+* https://github.com/cloudposse/bastion
+* https://github.com/AngularClass/angular-starter
+* https://github.com/jtblin/kube2iam
 
-Must have
+**Must have**
 
 0. different icons e.g. build, version, tech, docker downloads, etc. you can see above
 1. Introduction - https://github.com/jtblin/kube2iam#kube2iam
