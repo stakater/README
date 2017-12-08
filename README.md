@@ -9,7 +9,11 @@ So, we need to define a format and then ensure its followed:
 
 We should have following sections
 
-0. different icons e.g. build, version, tech, docker downloads, etc. you can see above
+### 0. Icons (Optional) 
+
+Different icons e.g. build, version, tech, docker downloads?
+
+you can look in references for inspirations
 
 ### 1. Introduction
 e.g. https://github.com/jtblin/kube2iam#kube2iam
@@ -38,9 +42,17 @@ If it is frontend then what technologies have been used?
 
 ##### Infrastructure
 
-How it can be deployed?
+How it can be deployed? docker or not?
 
-- security
+#### Testing
+
+How was testing done? Put numbers e.g.
+
+1. Number of automated tests?
+
+#### Security
+
+How was security implemented?
 
 #### ScreenShots
 
