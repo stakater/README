@@ -58,21 +58,31 @@ How was security implemented?
 
 If it has frontend; then run it and add screen shots.
 
-### 5. Help 
+### 5. Usage 
 
-e.g. https://github.com/cloudposse/bastion#help
+#### Running
 
-### 6. Usage 
-
-How to build it?
 How to run it?
 
+#### Building
+
+How to build it?
+
 e.g. https://github.com/cloudposse/bastion#usage or https://github.com/jtblin/kube2iam#usage
+
+---
+
+**NOTE** From 6 to 10 they will be generic!
+
+---
+
+### 6. Help 
+
+e.g. https://github.com/cloudposse/bastion#help
 
 ### 7. Contributing 
 
 e.g. https://github.com/cloudposse/bastion#contributing
-
 
 ### 8. Changelog 
 
