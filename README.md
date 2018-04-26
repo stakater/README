@@ -9,7 +9,7 @@ So, we need to define a format and then ensure its followed:
 
 We should have following sections
 
-### 0. Icons (Optional) 
+### 0. Icons (Optional) / Badges
 
 Different icons e.g. build, version, tech, docker downloads?
 
